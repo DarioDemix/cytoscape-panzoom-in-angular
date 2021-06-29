@@ -1,6 +1,6 @@
 # CytoscapePanzoomInAngular
 
-A simple demonstration of to how implement cytoscape-panzoom in an Angular project.
+A simple demonstration of to how to implement cytoscape-panzoom in an Angular project.
 
 ## Development server
 
