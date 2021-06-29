@@ -1,6 +1,6 @@
 # CytoscapePanzoomInAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
+A simple demonstration of how implement cytoscape-panzoom in an Angular project.
 
 ## Development server
 
